@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-ultimo-suspiro-del-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for El último suspiro del alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-ultimo-suspiro-del-alma/) |
+| **Get License** | [Official Music Licensing for El último suspiro del alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-ultimo-suspiro-del-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dd91b92bfead6c036e4662769bdeabbf603b9d005059556657c79674eac657b2` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
