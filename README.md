@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-ultimo-suspiro-del-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for El último suspiro del alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-ultimo-suspiro-del-alma/) |
+| **Get License** | [Request Licensing for El último suspiro del alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-ultimo-suspiro-del-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te vienes junto a mí
+> Que mi cuerpo está pidiendo lo que tienes ahí
+> Eres el misterio que yo quiero descubrir
+> En la oscuridad de la ciudad me haces sentir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
